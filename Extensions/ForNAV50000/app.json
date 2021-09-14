@@ -1,0 +1,28 @@
+{
+  "id": "0a396fc7-9ee6-48c6-abc3-8a07a66fec0f",
+  "Name": "ForNAV50000",
+  "publisher": "ForNAV",
+  "Version": "1.0.0.0",
+  "platform": "15.0.0.0",
+  "runtime": "3.0",
+  "target": "Internal",
+  "showMyCode": true,
+  "idRange": {
+    "from": 1,
+    "to": 2147483647
+  },
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "Name": "System Application",
+      "publisher": "Microsoft",
+      "version": "15.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "Name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "15.0.0.0"
+    }
+  ]
+}
