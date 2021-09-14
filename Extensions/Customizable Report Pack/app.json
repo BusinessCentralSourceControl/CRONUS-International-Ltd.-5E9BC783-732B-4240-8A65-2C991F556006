@@ -1,0 +1,32 @@
+{
+  "id": "83326d6d-11f8-49fd-981a-6f266a7c8d81",
+  "Name": "Customizable Report Pack",
+  "publisher": "ForNAV",
+  "brief": "ForNAV Invoice Label Barcode Font Print Designer RDLC Excel PDF Layout Document Customize MICR Check",
+  "description": "<h1>ForNAV Standard Reports makes life easy for customers & partners</h1>\nGet started quickly with a set of brand-new standard reports, designed and optimized for Microsoft Dynamics 365 Business Central with ForNAV.\nThe set of standard reports includes sales and purchase documents, and financial reports and statistics. Even a US check report is included.\nInstall and deploy the ForNAV Report Pack in just a few minutes. You can work with the reports as they are, or you can easily modify them to support your business needs and layout.\n\n<h1>Select a watermark or create your own</h1>\nTo further enhance report design, choose from a set of included watermarks. These are PDF files, which mean you get a high resolution regardless of how much you zoom in. To use your own watermark, simply create one in accordance with the layout and save it as a PDF file.\n\n<h1>Unique Master Section technology</h1>\nThe unique ForNAV Master Section technology lets you use sections from other reports as a �template�. This significantly eases the maintenance of, for instance, your sales documents, because the parts that are the same across a number of reports only have to be maintained in one place.\n\n<h1>Labels & barcodes</h1>\nWorking with barcodes is increasingly a requirement for businesses. With ForNAV, barcodes are just a few clicks away. Select your data source, the type of barcode (or QR-code) you need, and place it on your document � and that�s it. No installment of fonts and no check sum calculation. And, importantly, our barcodes are vectorized graphics, so you can scale as much as you like � they are still readable.\n\n<h1>Embedded fonts</h1>\nSome documents � like checks � require specific fonts (MICR). Or perhaps your business has a policy to use certain fonts. With ForNAV, these are embedded in the report, so you don�t need to install the fonts locally. \n\n<h1>Local print</h1>\nIn a cloud environment, local print can be a challenge. For instance, a warehouse worker or retailer doesn�t want to press �print� every time they need a label or receipt. We�ve solved this challenge\n\n<h1>Fast & easy customization</h1>\nOur Report Pack works perfectly as it is, out-of-the-box. But we understand that some businesses need specific information on their documents. With ForNAV, you also get the comprehensive and easy-to-use Designer at your disposal. The entire Report Pack is built with our ForNAV Designer � so you (or your Dynamics partner) can at any time modify reports to meet your exact needs. For the more advanced user, you can even build your own reports from scratch. With the ForNAV Designer, you have full access to all fields and captions, including from your own and other extensions (apps), without having to modify the dataset first.\n\n<h1>Support for Microsoft Dynamics 365 Business Central </h1>\nForNAV reports look and run like any other reports in Business Central. We support all the features that you are familiar with, including print to Microsoft Word, PDF, and preview.\n",
+  "Version": "6.0.0.2",
+  "privacyStatement": "https://www.fornav.com/privacy-policy/",
+  "applicationInsightsKey": "00000000-0000-0000-0000-000000000000",
+  "EULA": "https://www.fornav.com/documents/EULA.pdf",
+  "help": "https://www.fornav.com/cloud/",
+  "contextSensitiveHelpUrl": "https://ReportPackOnPrem15.com/help/",
+  "url": "https://www.fornav.com/cloud/",
+  "platform": "16.0.0.0",
+  "runtime": "5.0",
+  "target": "OnPrem",
+  "showMyCode": true,
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "Name": "System Application",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "Name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "15.0.0.0"
+    }
+  ]
+}
